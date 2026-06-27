@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Imran%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20Tech%20Lead&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Imran%20Ali&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Automation%20Tech%20Lead&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name      = "Imran Ali"
+        self.name      = "Mohammed Imran Ali"
         self.role      = "AI Engineer & Automation Tech Lead"
         self.focus     = ["LLM Applications", "Digital Twins", "RAG Systems", "AI Agents"]
         self.stack     = ["Python", "OpenAI", "Anthropic Claude", "LangChain", "ChromaDB"]
