@@ -8,6 +8,17 @@
 
 ---
 
+### 🎬 When I'm Not Automating Things...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/fun-fact-turtle.gif" width="640"/>
+</p>
+<p align="center">
+  I like experimenting with generative AI video/art on the side — this Pixar-style scene was AI-generated for fun 🐢
+</p>
+
+---
+
 <table>
 <tr>
 <td width="42%" valign="top">
@@ -78,17 +89,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-
-### 🎬 When I'm Not Automating Things...
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/fun-fact-turtle.gif" width="640"/>
-</p>
-<p align="center">
-  I like experimenting with generative AI video/art on the side — this Pixar-style scene was AI-generated for fun 🐢
 </p>
 
 ---
