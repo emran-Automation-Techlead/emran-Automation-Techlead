@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=🤖+Building+Intelligent+Automation+Systems;🧠+Multi-Agent+AI+%26+LLM+Engineering;🔬+Digital+Twin+%26+Simulation+Research;⚡+Turning+Ideas+into+Production+AI;🌐+Open+Source+%7C+Python+%7C+Agentic+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&separator=%3B&lines=Building+Intelligent+Automation+Systems;Multi-Agent+AI+%26+LLM+Engineering;Digital+Twin+%26+Simulation+Research;Turning+Ideas+into+Production+AI;Open+Source+%7C+Python+%7C+Agentic+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,10 +56,20 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/emran-Automation-Techlead/Digital_Twin-AI_Project"><strong>Digital_Twin-AI_Project</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/emran-Automation-Techlead/ai-resume-analyzer"><strong>ai-resume-analyzer</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/emran-Automation-Techlead/multi-agent-research"><strong>multi-agent-research</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/emran-Automation-Techlead/gdpr-event-api"><strong>gdpr-event-api</strong></a>
+  <a href="https://github.com/emran-Automation-Techlead/Digital_Twin-AI_Project">
+    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/digital-twin-banner.gif" width="440"/>
+  </a>
+  <a href="https://github.com/emran-Automation-Techlead/ai-resume-analyzer">
+    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/ai-resume-analyzer-banner.gif" width="440"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/emran-Automation-Techlead/multi-agent-research">
+    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/multi-agent-research-banner.gif" width="440"/>
+  </a>
+  <a href="https://github.com/emran-Automation-Techlead/gdpr-event-api">
+    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/gdpr-event-api-banner.gif" width="440"/>
+  </a>
 </p>
 
 ---
