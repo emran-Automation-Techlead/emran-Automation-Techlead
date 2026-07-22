@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammed%20Imran%20Ali&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Automation%20Tech%20Lead%20%7C%20AI%20Engineer%20%7C%20Python%20Specialist&descAlignY=58&descSize=17&descColor=a0d8ef)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1d,50:3a3a3f,100:5c5c63&height=220&section=header&text=Mohammed%20Imran%20Ali&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Automation%20Tech%20Lead%20%7C%20AI%20Engineer%20%7C%20Python%20Specialist&descAlignY=58&descSize=17&descColor=a0d8ef)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats
 
-<img width="100%" src="https://streak-stats.demolab.com?user=emran-Automation-Techlead&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+<img width="100%" src="https://streak-stats.demolab.com?user=emran-Automation-Techlead&theme=tokyonight&hide_border=true&background=2B2B30&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
 </td>
 <td width="58%" valign="top">
@@ -85,7 +85,7 @@
 ### 🎬 When I'm Not Automating Things...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/fun-fact-turtle.gif" width="380"/>
+  <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/fun-fact-turtle.gif" width="640"/>
 </p>
 <p align="center">
   I like experimenting with generative AI video/art on the side — this Pixar-style scene was AI-generated for fun 🐢
@@ -108,4 +108,4 @@
   <img src="https://komarev.com/ghpvc/?username=emran-Automation-Techlead&color=00d4ff&style=flat-square&label=Profile+Views"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1d,50:3a3a3f,100:5c5c63&height=120&section=footer)
