@@ -86,6 +86,17 @@
 
 ---
 
+### 🎬 When I'm Not Automating Things...
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/fun-fact-turtle.gif" width="380"/>
+</p>
+<p align="center">
+  I like experimenting with generative AI video/art on the side — this Pixar-style scene was AI-generated for fun 🐢
+</p>
+
+---
+
 ### 🤝 Connect With Me
 
 <p align="center">
