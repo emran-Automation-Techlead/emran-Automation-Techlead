@@ -8,69 +8,65 @@
 
 ---
 
-<p align="center">
-  🎯 Automation Tech Lead with a passion for <strong>Agentic AI</strong> and <strong>Intelligent Systems</strong><br/>
-  🤖 Building multi-agent research systems, digital twins, and AI-powered tools<br/>
-  🔭 Currently exploring: <strong>LLM Orchestration · Digital Twin Simulation · AI Resume Intelligence</strong><br/>
-  💬 Ask me about: <strong>Python · Automation · AI Pipelines · Multi-Agent Systems</strong><br/>
-  📫 Reach me at: <strong>emranali.emran82@gmail.com</strong>
-</p>
+<table>
+<tr>
+<td width="42%" valign="top">
 
----
+### 🎯 About Me
+
+🤖 Automation Tech Lead building multi-agent research systems, digital twins, and AI-powered tools<br/><br/>
+🔭 Currently exploring: **LLM Orchestration · Digital Twin Simulation · AI Resume Intelligence**<br/><br/>
+💬 Ask me about: **Python · Automation · AI Pipelines · Multi-Agent Systems**<br/><br/>
+📍 Based in **Luxembourg** 🇱🇺<br/><br/>
+📫 Reach me at: **emranali.emran82@gmail.com**
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=emran-Automation-Techlead&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
-</p>
+<img width="100%" src="https://streak-stats.demolab.com?user=emran-Automation-Techlead&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
----
+</td>
+<td width="58%" valign="top">
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/emran-Automation-Techlead/Digital_Twin-AI_Project">
-    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/digital-twin-banner.gif" width="440"/>
-  </a>
-  <a href="https://github.com/emran-Automation-Techlead/ai-resume-analyzer">
-    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/ai-resume-analyzer-banner.gif" width="440"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/emran-Automation-Techlead/multi-agent-research">
-    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/multi-agent-research-banner.gif" width="440"/>
-  </a>
-  <a href="https://github.com/emran-Automation-Techlead/gdpr-event-api">
-    <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/gdpr-event-api-banner.gif" width="440"/>
-  </a>
-</p>
+<a href="https://github.com/emran-Automation-Techlead/Digital_Twin-AI_Project">
+  <img width="100%" src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/digital-twin-banner.gif"/>
+</a>
+<br/><br/>
+<a href="https://github.com/emran-Automation-Techlead/ai-resume-analyzer">
+  <img width="100%" src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/ai-resume-analyzer-banner.gif"/>
+</a>
+<br/><br/>
+<a href="https://github.com/emran-Automation-Techlead/multi-agent-research">
+  <img width="100%" src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/multi-agent-research-banner.gif"/>
+</a>
+<br/><br/>
+<a href="https://github.com/emran-Automation-Techlead/gdpr-event-api">
+  <img width="100%" src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/gdpr-event-api-banner.gif"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
