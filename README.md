@@ -17,7 +17,7 @@
 🤖 Automation Tech Lead building multi-agent research systems, digital twins, and AI-powered tools<br/><br/>
 🔭 Currently exploring: **LLM Orchestration · Digital Twin Simulation · AI Resume Intelligence**<br/><br/>
 💬 Ask me about: **Python · Automation · AI Pipelines · Multi-Agent Systems**<br/><br/>
-📍 Based in **Luxembourg** 🇱🇺<br/><br/>
+📍 Based in **India** 🇮🇳<br/><br/>
 📫 Reach me at: **emranali.emran82@gmail.com**
 
 ### 🛠️ Tech Stack
