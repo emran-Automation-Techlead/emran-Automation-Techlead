@@ -48,19 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=emran-Automation-Techlead&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=emran-Automation-Techlead&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-Automation-Techlead&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=emran-Automation-Techlead&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 </p>
 
 ---
@@ -68,20 +56,10 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/emran-Automation-Techlead/Digital_Twin-AI_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emran-Automation-Techlead&repo=Digital_Twin-AI_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff" />
-  </a>
-  <a href="https://github.com/emran-Automation-Techlead/ai-resume-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emran-Automation-Techlead&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/emran-Automation-Techlead/multi-agent-research">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emran-Automation-Techlead&repo=multi-agent-research&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff" />
-  </a>
-  <a href="https://github.com/emran-Automation-Techlead/gdpr-event-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emran-Automation-Techlead&repo=gdpr-event-api&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff" />
-  </a>
+  <a href="https://github.com/emran-Automation-Techlead/Digital_Twin-AI_Project"><strong>Digital_Twin-AI_Project</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/emran-Automation-Techlead/ai-resume-analyzer"><strong>ai-resume-analyzer</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/emran-Automation-Techlead/multi-agent-research"><strong>multi-agent-research</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/emran-Automation-Techlead/gdpr-event-api"><strong>gdpr-event-api</strong></a>
 </p>
 
 ---
