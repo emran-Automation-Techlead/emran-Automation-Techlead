@@ -11,10 +11,10 @@
 ### 🎬 When I'm Not Automating Things...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/fun-fact-turtle.gif" width="640"/>
+  <video src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/fun-fact-scene.mp4" width="640" controls autoplay loop muted></video>
 </p>
 <p align="center">
-  I like experimenting with generative AI video/art on the side — this Pixar-style scene was AI-generated for fun 🐢
+  I like experimenting with generative AI video/art on the side — this animated scene was AI-generated for fun 🎬
 </p>
 
 ---
