@@ -74,6 +74,8 @@
 <a href="https://github.com/emran-Automation-Techlead/gdpr-event-api">
   <img width="100%" src="https://raw.githubusercontent.com/emran-Automation-Techlead/emran-Automation-Techlead/main/assets/gdpr-event-api-banner.gif"/>
 </a>
+<br/><br/>
+<a href="https://github.com/emran-Automation-Techlead/emran-Automation-Techlead/tree/main/code-comparison-coach">CodeMirror - Student Code Comparison Coach: browser-based code review and actionable learning prompts</a>
 
 </td>
 </tr>
